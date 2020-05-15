@@ -26,7 +26,7 @@ Jamendo API
 About:
 Created by Cheryl Daniels, Macy Molina  , William VanHook, Michael Pryor
 
-See deployed application at: https://cheryld433.github.io/Project-1/.
+See deployed application at: https://cheryld433.github.io/HomeMade/.
 
 
 
